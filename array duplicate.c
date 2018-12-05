@@ -1,6 +1,7 @@
 #include<stdio.h>
 void main()
 {
+    printf('heloo world');
     int a[5],i,j,count;
     for(i=0;i<5;i++)
     {
